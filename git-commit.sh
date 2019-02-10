@@ -1,8 +1,6 @@
 #!/bin/bash
 
-
 CURRENT_DIR=$(pwd)
-echo $CURRENT_DIR
 cd ~
 
 echo This script will push to your git repository.
